@@ -1,0 +1,159 @@
+qu'il s'agit ici du théorème de Thalès. Le théorème de Thales est un théorème mathématique selon lequel un triangle dont un côté est un diamètre de son cercle circonscrit est un triangle rectangle. Cependant, le passage peut également être interprété de telle manière que Thales a dessiné le triangle rectangle avec la même aire que le cercle, ce qui donne 3 comme approximation du nombre du cercle.[24] Le deuxième passage se lit comme suit : "Selon Jérôme de Rhodes, il a mesuré la hauteur des pyramides [...], car la longueur de nos ombres est également égale à la hauteur de nos corps."[6] Cette méthode de mesure peut être considéré comme un précurseur précoce d'un ensemble ultérieur de rayons, la véracité des rayons traditionnels Cependant, la position est controversée. La méthode de mesure décrite n'est pas adaptée pour mesurer la hauteur de toutes les pyramides (certaines ont un angle d'inclinaison trop plat), mais ne convient que lorsque le soleil est dans une position favorable, c'est-à-dire un ou deux jours par an, la la pointe de l'ombre de la pyramide est exactement verticale sur le bord d'une pyramide pyramidale afin qu'elle puisse être mesurée directement.[25] Cette méthode n'était donc pas très pratique pour mesurer la hauteur des pyramides, ni particulièrement impressionnante, puisque les Égyptiens pouvaient calculer la hauteur d'une pyramide sans difficulté.[26]
+
+Dans son commentaire sur les éléments d'Euclide, Proclus donne d'autres idées mathématiques de Thales : "Thalès aurait été le premier à prouver que le cercle est bissecté par le diamètre." [27] Proclus continue d'écrire : "On dit qu'il a été le premier à savoir et a dit que dans chaque triangle isocèle les angles à la base sont égaux, en utilisant à l'ancienne le même [ἴσας, c'est-à-dire H égal] angle similaire [ὁμοίας, i. H gestaltgleich] appelé. »[28] Après Eudemos, on dit que Thales a été le premier à trouver que les angles des sommets sont égaux, mais ce n'est qu'Euclide qui a considéré qu'une preuve était nécessaire.[29] Un autre passage dit : « Dans son histoire de la géométrie, Eudemos fait remonter ce théorème [la troisième loi de congruence] à Thales. Il dit que la méthode par laquelle il a calculé la distance des navires en mer doit nécessairement être basée sur l'utilisation de ce théorème. adapté à cela.[31] De plus, Eudemus a seulement supposé que Thales connaissait cette phrase.
+
+astronomie
+Hérodote rapporte que Thales a correctement prédit l'année d'une éclipse qui s'est produite soudainement lors d'une bataille entre les Lydiens et les Mèdes.[32] Ceci est souvent interprété comme signifiant une éclipse solaire totale. Rétrospectivement, il a été calculé que l'éclipse solaire du 28 mai 585 av. aux quelques détails d'Hérodote. Cependant, la citation d'Hérodote laisse ouverte de quel type d'éclipse il s'agissait. Les éclipses solaires totales sont extrêmement rares et une éclipse atmosphérique est beaucoup plus probable. Avec les connaissances disponibles à l'époque de Thales, il n'était pas non plus possible de calculer à l'avance l'heure d'une éclipse solaire. Il est probable que Thales ait prédit autre chose, qui a ensuite été identifié par Hérodote avec l'éclipse lors de cette bataille.[33]
+
+Diogène Laertios a rapporté ce qui suit sur l'astronomie de Thales :
+
+"Certains auteurs prétendent qu'il fut le premier à faire de l'astronomie, à prédire les éclipses solaires et à déterminer les solstices."
+
+– Diogène Laertios : I,23
+"Il a également été le premier à déterminer l'orbite du soleil d'un tour à l'autre, après d'autres aussi le rapport du diamètre du soleil et de la lune à la circonférence respective de l'orbite comme 1:720. Il a été le premier à décrire le dernier jour du mois comme « le trentième » et à discuter de problèmes théoriques naturels. »
+
+– Diogène Laertios : I,24
+"On dit qu'il a introduit les saisons et divisé l'année en 365 jours."
+
+– Diogène Laertios : I,27
+Le cratère lunaire Thales porte son nom.
+
+Technologie
+Une possible réalisation technique de Thales a également été signalée. Il a au moins partiellement détourné la rivière Halys pour que l'armée de Crésus puisse la traverser.[34] Hérodote en doutait et fit traverser la rivière par l'armée sur les ponts existants[35].
+
+anecdotes
+Surtout, deux anecdotes sur Thales sont devenues connues. Selon la première, il aurait prédit une importante récolte d'olives sur la base de ses connaissances astronomiques et aurait ensuite investi avec profit dans des pressoirs à huile :
+
+« On lui reprochait [...] à cause de sa pauvreté que la philosophie était une occupation inutile. Puisqu'il avait maintenant reconnu à la suite de son observation des étoiles qu'il y aurait une riche récolte d'olives, il aurait fait des dépôts pour toutes les presses à huile de Milet et de Chios en hiver et, comme personne ne s'y est opposé, les a louées pour un petit montant. Mais quand le bon moment est venu, et en même temps et tout d'un coup il y avait un grand besoin de pressoirs à huile, il les a loués à ses propres conditions et
+gagné beaucoup d'argent en le faisant. Il a prouvé que s'il est facile pour les philosophes de s'enrichir s'ils le veulent, ce n'est pas ce qu'ils recherchent."
+
+– Aristote : Politica 1259a[36][37]
+Selon la seconde, il aurait été moqué par une bonne parce qu'il serait tombé dans un puits en regardant les étoiles :
+
+« Thales [...] en étudiant les étoiles et en levant les yeux est tombé dans un puits. On dit qu'une servante thrace pleine d'esprit et charmante s'est moquée de lui parce qu'il désire voir des choses dans le ciel, mais ce qui se trouve devant ses pieds lui échappe.
+
+– Platon : Théétète 174a[38]
+Une anecdote fréquemment entendue est que Thales a reçu un trépied, qui était destiné à récompenser le plus sage de tous. Il existe des versions contradictoires de cette histoire.[39]
+
+traditions
+Presque tous les chercheurs supposent que Thales n'était pas un écrivain.[40] Ce que l'on sait de lui a été transmis par d'autres auteurs anciens.[41] L'une des principales sources de sa vie et de son œuvre est l'ancien écrivain Diogène Laertios, qui a vécu environ 800 ans après Thales. Même cela dépendait de sources parfois contradictoires. Les auteurs antérieurs qui ont rendu compte de Thales incluent l'historien Hérodote et les philosophes Platon et plus particulièrement Aristote.
+
+collections sources
+Hermann Diels, Walther Kranz (éd.): Les fragments des présocratiques. 6ème édition. Volume 1, Berlin 1951, pp. 67-81 (seulement partiellement avec traduction allemande ; nombreuses nouvelles éditions).
+M. Laura Gemelli Marciano (éd.): Les présocratiques. Volume 1, Artemis & Winkler, Mannheim 2007, ISBN 978-3-7608-1735-4, pp. 6-31 (avec traduction allemande, explications et introduction à la vie et au travail).
+Jaap Mansfeld (ed.): Les pré-socratiques. Volume 1, Reclam, Stuttgart 1983, pp. 44-55 (traduction allemande uniquement ; nombreuses nouvelles éditions).
+Georg Wöhrle (éd.): Thales (= Traditio Praesocratica. Les Milésiens. Volume 1). De Gruyter, Berlin 2009 (avec traduction allemande).
+Littérature
+aperçus dans les manuels
+
+Dmitri Panchenko : Thalès de Milet. In : Richard Goulet (éd.) : Dictionnaire des philosophes antiques. Tome 6, CNRS Éditions, Paris 2016, ISBN 978-2-271-08989-2, p. 771-793
+Hellmut Flashar et al. (Ed.): Philosophie grecque primitive (= aperçu de l'histoire de la philosophie. La philosophie de l'antiquité. Tome 1). Demi tome 1, Schwabe, Bâle 2013, ISBN 978-3-7965-2598-8, pp. 182-184 (Thomas Schirren : Biographie de Thales) et pp. 237-262 (Niels Christian Dührsen : travail, enseignement, accueil) .
+Présentations générales et investigations
+
+Hans Blumenberg : Le rire du Thrace. Une histoire de la théorie. Francfort 1987.
+Helmuth Gericke: Mathématiques dans l'Antiquité et l'Orient. Springer, Berlin 1984.
+Willy Hartner : Périodes d'éclipse et prédiction de Thales d'une éclipse solaire. Vérité historique et mythe moderne. Dans : Centaure. Volume 14, 1969, p. 60-71
+Pietro Mazzeo : Talete, il primo filosofo. Editrice Tipografica, Bari 2010.
+Bruno Snell : L'actualité des enseignements de Thales et des débuts de la philosophie et de l'histoire littéraire grecques. In : Philologue. Volume 96, 1944, p. Darmstadt 1976, p. 478-490).
+ACCUEIL
+
+Gero Guttzeit : Thalès. Dans : Peter von Möllendorff, Annette Simonis, Linda Simonis (éd.) : Personnages historiques de l'antiquité. Réception dans la littérature, l'art et la musique (= Der Neue Pauly. Supplemente. Band 8). Metzler, Stuttgart/Weimar 2013, ISBN 978-3-476-02468-8, colonnes 971-976.
+liens web
+Patricia O'Grady : Thales. Dans : Encyclopédie Internet de Philosophie.
+John J. O'Connor, Edmund F. Robertson : Thalès de Milet. Dans : Archives MacTutor History of Mathematics.
+Karl Bormann : Thalès de Milet. In : Dictionnaire de philosophie en ligne UTB.
+Diogenes Laertios: Life and Opinions of Famous Philosophers, traduit et expliqué par Otto Apelt, Premier Volume Livre I - VI, Leipzig 1921
+notes de bas de page
+ Diogène Laertios I,22.
+ Georg Wöhrle : Thalès, un Phénicien ? Dans : Mnémosyne. Volume 68, n° 3, 2015, pages 470-478, doi : 10.1163/1568525X-12341649.
+ Thomas Schirren, Georg Rechenauer : Biographie. Dans : Hellmut Flashar et al. (Ed.): Philosophie grecque primitive (= La philosophie de l'antiquité. Volume 1). Schwabe Verlag, Bâle 2013, ISBN 978-3-7965-2598-8, page 175.
+ Thomas Schirren, Georg Rechenauer : Biographie. Dans : Hellmut Flashar et al. (Ed.): Philosophie grecque primitive (= La philosophie de l'antiquité. Volume 1). Schwabe Verlag, Bâle 2013, ISBN 978-3-7965-2598-8, pages 182 et suivantes.
+ Diogène Laertios I,25 f.
+ Diogène Laertios I,27.
+ Diogène Laertios I,24.
+ Diogène Laertios I,24 ; je,27 ; Je,43.
+ Platon, Protagoras 342e et suiv.
+ Georg Wöhrle (éd.): Thales (= Traditio Praesocratica. Les Milésiens. Volume 1). De Gruyter, Berlin 2009, p. 17.
+ Hérodote, Historiae I,170 ; Traduction allemande par Georg Wöhrle dans: le même (éd.): Thal
+
+es (= Traditio Praesocratica. Les Milésiens. Volume 1). De Gruyter, Berlin 2009, p. 35.
+ M. Laura Gemelli Marciano (éd.): Les présocratiques. Volume 1, Artemis & Winkler, Mannheim 2007, ISBN 978-3-7608-1735-4, page 22.
+ Diogène Laertios I,25.
+ Hérodote, Historiae I,75.
+ Voir aussi Diogène Laertios I,36.
+ Homère, Iliade 14:201.
+ Homère, Iliade 14:246.
+ Jaap Mansfeld (ed.): The Pre-Socratics I. Greek/German, Reclam, Stuttgart 1998, p. 40.
+ Aristote, Metaphysica 983b; Voir aussi Physique 184b.
+ Aristote, Metaphysica 983b20f.
+ Aristote, De caelo II,13,294a28–b6 ; Cf. Aristote, Metaphysica 983b20.
+ Hérodote, Historiae II,20 (sans mentionner Thales) ; Diogène Laertios I,37.
+ Diogène Laertios I,24 ; Traduction allemande par Georg Wöhrle dans: le même (éd.): Thales (= Traditio Praesocratica. The Milesians. Volume 1). De Gruyter, Berlin 2009, p. 197.
+ Voir Fritz Krafft : Histoire des sciences naturelles I, Rombach, Fribourg 1971, p.90 sq.
+ Helmuth Gericke: Mathématiques dans l'Antiquité et l'Orient. p.75.
+ Helmuth Gericke: Mathématiques dans l'Antiquité et l'Orient. p.60 s.
+ Proclus, In primum Euclidis elementorum librum commentarii 157.10 sq. (= Hermann Diels, Walther Kranz (eds.) : The Fragments of the Pre-Socratics 11A20).
+ Proclus, In primum Euclidis elementorum librum commentarii 250.22 sqq (= Hermann Diels, Walther Kranz (eds.): The Fragments of the Pre-Socratics 11A20).
+ Proclus, In primum Euclidis elementorum librum commentarii 299.1 (= Hermann Diels, Walther Kranz (eds.) : Les fragments des présocratiques 11A20).
+ Proclus, In primum Euclidis elementorum librum commentarii 352.14 sqq (= Hermann Diels, Walther Kranz (eds.): The Fragments of the Pre-Socratics 11A20).
+ Helmuth Gericke: Mathématiques dans l'Antiquité et l'Orient. p.76 s.
+ Hérodote, Historiae I,74.
+ Otta Wenskus : La prétendue prédiction d'une éclipse solaire par Thalès de Milet. Pourquoi cette légende persiste et pourquoi il est important de ne pas y croire. Dans : Hermès. Volume 144, n° 1, 2016, pages 2 à 17.
+ Diogène Laertios I,38.
+ Hérodote, Historiae I,75.
+ Traduction allemande par Georg Wöhrle dans : le même (éditeur) : Thales (= Traditio Praesocratica. The Milesians. Volume 1). De Gruyter, Berlin 2009, p. 49.
+ Cf. Diogène Laertios I,26.
+ Traduction allemande par Georg Wöhrle dans : le même (éditeur) : Thales (= Traditio Praesocratica. The Milesians. Volume 1). De Gruyter, Berlin 2009, p. 40.
+ Diogène Laertios I,27-33.
+ Niels Christian Dührsen : Thales. Dans : Hellmut Flashar et al. (Ed.): Philosophie grecque primitive (= La philosophie de l'antiquité. Volume 1). Schwabe Verlag, Bâle 2013, ISBN 978-3-7965-2598-8, page 239.
+ Niels Christian Dührsen : Thales. Dans : Hellmut Flashar et al. (Ed.): Philosophie grecque primitive (= La philosophie de l'antiquité. Volume 1). Schwabe Verlag, Bâle 2013, ISBN 978-3-7965-2598-8, page 237.
+Données d'autorité (personne) : GND : 118801732 | RCAC : n86024245 | VIAF : 290923996 | Recherche de personnes sur Wikipédia
+Catégories : HommeGrec (antique)Né au 7ème siècle avant JC Décédé au VIe siècle av. Ancien astronomeMathématicien ancienPoliticien (Grèce antique)Pré-socratiquepolymathePersonne (Miletus)
+le menu de navigation
+Non connectéTalk PageMessagesCréer un compteConnexionArticlesDiscussionLireModifierModifier la sourceHistoriqueRechercher
+Rechercher sur Wikipédia
+page d'accueil
+portails thématiques
+Article aléatoire
+Participer
+améliorer l'article
+Créer un nouvel article
+portail auteur
+Aider
+derniers changements
+Contacter
+Donner
+outils
+Liens vers cette page
+Modifications des sites liés
+pages spéciales
+lien permanent
+informations secondaires
+Objet de données Wikidata
+citer l'article
+Imprimer/Exporter
+créer un livre
+Télécharger au format PDF
+Version imprimable
+Dans d'autres projets
+Chambre des communes
+Citation Wiki
+
+Dans d'autres langues
+Беларуская
+Anglais
+Français
+italien
+Lietuvių
+Pologne
+Русский
+Українська
+中文
+88 de plus
+modifier les liens
+Cette page a été modifiée pour la dernière fois le 9 mars 2019 à 23h30.
+Statistiques de récupération
+
+Le texte est disponible sous une licence Creative Commons Attribution/Share Alike ; Les informations sur les auteurs et l'état de la licence des fichiers multimédias intégrés (par exemple, des images ou des vidéos) peuvent généralement être appelées en cliquant dessus. Le contenu peut être soumis à des termes et conditions supplémentaires. En utilisant ce site Web, vous acceptez les conditions d'utilisation et la politique de confidentialité.
+Wikipedia® est une marque déposée de Wikimedia Foundation Inc.
+Politique de confidentialitéÀ propos de WikipediaMentions légalesDéveloppeursCookie StatementMobile ViewWikimedia Foundation Powered by MediaWiki

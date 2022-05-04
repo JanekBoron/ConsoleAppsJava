@@ -1,0 +1,57 @@
+n'est-ce pas ?", lui a demandé quelqu'un. Et lui : "Parce que ce n'est pas grave !"
+
+– Diogène Laertios : I,35
+Bien avant Thalès, l'eau, avec d'autres termes, était un terme utilisé dans les cosmogonies de l'ancien Proche-Orient pour expliquer l'origine du monde. L'idée d'un océan primordial ou d'une eau primordiale, qui aurait existé avant la formation de notre monde, se retrouve à la fois en Babylonie et en Égypte ancienne. Au VIIIe siècle av. Au 7ème siècle avant JC, le poète grec Homère a écrit à propos du dieu du fleuve Okeanos qu'il était "l'origine des dieux"[16] et "l'origine de tout".[17] le poète Alcman a écrit une histoire sur l'origine du monde, au début de laquelle se trouvent les eaux.[18] On peut supposer que certaines de ces idées anciennes ont influencé Thales. En tout cas, il est entré dans l'histoire de la philosophie parce qu'il aurait décrit l'eau comme la cause première ou première de toutes choses :
+
+
+Un monument Thales à Deggendorf
+« Thalès […] désigne comme […] origine [archḗ] l'eau [hýdōr]. Il enseigna que la terre devait aussi reposer sur l'eau. La raison de cette opinion était probablement l'observation que la nourriture de tous les êtres est humide, que la chaleur elle-même en provient et en vit ; mais d'où vient tout, c'est l'origine de tout. Si c'était une des raisons de son opinion, une autre était probablement la circonstance que les graines de tous les êtres sont de nature humide, mais que l'eau constitue le principe de la nature de l'humide. Or certains sont d'avis que les anciens, qui vivaient bien avant l'époque actuelle et qui furent les premiers à penser sous une forme mythique, avaient la même hypothèse sur la substance. Ceux-ci s'appelaient Okeanos et Téthys comme les auteurs de la création du monde et l'eau comme celle par laquelle les dieux jurent. […] Il n'est peut-être pas possible de déterminer si une vision aussi originale de la substance s'y trouve vraiment. En tout cas, Thales aurait avancé cette vision de la cause suprême.
+
+– Aristote : Metaphysica 983b20f.
+Aristote différencie les vues des présocratiques selon le nombre et la nature de leur origine (archḗ). Thalès était celui qui n'assumait pas des origines multiples (comme Empédocle, qui supposait les quatre origines du feu, de l'eau, de l'air et de la terre), mais une seule. Et celui qui a assumé une origine « matérielle » (et non « immatérielle », comme l'Infini de son disciple Anaximandre).[19] Après Aristote, Thales fut le premier philosophe à poser la question de l'origine de toutes choses.[20] Hippolyte de Rome et Diogène Laertios rapportent également quelque chose de similaire à Aristote, où Hippolyte de Rome mentionne également la théologie et l'astronomie de Thales et une anecdote dans la citation suivante :
+
+"Thalès de Milet, l'un des sept sages, aurait d'abord traité des sciences naturelles. Il a affirmé que l'origine et la fin de l'univers est l'eau; car l'univers est fait d'eau, solide ou liquide, et il flotte sur l'eau ; De là viennent aussi les tremblements de terre, les changements de vents et les mouvements des astres ; tout est dans les limbes et en flux, comme l'implique la nature de la cause première ; ce qui n'a ni commencement ni fin, c'est Dieu. Thales s'est également consacré à l'enseignement et à la recherche sur les étoiles et est ainsi le premier fondateur de la science pertinente pour les Grecs. Un jour, alors qu'il regardait le ciel pour, comme il disait, observer les choses de près, il tomba dans un puits. Une servante nommée Thratta se moqua de lui et dit : « Puisqu'il veut voir des choses dans le ciel, il néglige ce qui est à ses pieds. » Thalès a vécu à l'époque de Crésus.
+
+– Hippolyte de Rome : Refutatio omnium haeresium I,1
+"Thales a enseigné que l'origine de toute chose est l'eau."
+
+– Diogène Laertios : I,27
+Voir aussi: Doctrine des quatre éléments
+Divers
+Aristote rapporte que Thales a expliqué la position de repos de la terre en disant que la terre flotte sur l'eau.[21]
+
+Thales aurait nommé l'Etesia comme la raison de l'inondation annuelle du Nil, car ces vents d'été, qui s'opposent au flux nord du Nil, l'empêcheraient de se jeter dans la Méditerranée.[22]
+
+mathématiques
+
+Illustration du théorème de Thales
+
+Ici, le soleil est positionné de telle manière que l'ombre d'un bâton (B) est aussi longue que le bâton lui-même (A) et la longueur de l'ombre d'une pyramide plus la moitié de sa longueur de côté (résultats en C) est aussi longue comme la hauteur de la pyramide ( D). Thales a mesuré l'ombre et la longueur des côtés de la pyramide et a pu déterminer sa hauteur.
+Diogène Laërce nous a transmis deux des découvertes mathématiques de Thales. Pamphile dit que Thales "a été le premier à dessiner le triangle rectangle dans le cercle." [23] Ce passage de Diogène Laertios est généralement interprété comme
+qu'il s'agit ici du théorème de Thalès. Le théorème de Thales est un théorème mathématique selon lequel un triangle dont un côté est un diamètre de son cercle circonscrit est un triangle rectangle. Cependant, le passage peut également être interprété de telle manière que Thales a dessiné le triangle rectangle avec la même aire que le cercle, ce qui donne 3 comme approximation du nombre du cercle.[24] Le deuxième passage se lit comme suit : "Selon Jérôme de Rhodes, il a mesuré la hauteur des pyramides [...], car la longueur de nos ombres est également égale à la hauteur de nos corps."[6] Cette méthode de mesure peut être considéré comme un précurseur précoce d'un ensemble ultérieur de rayons, la véracité des rayons traditionnels Cependant, la position est controversée. La méthode de mesure décrite n'est pas adaptée pour mesurer la hauteur de toutes les pyramides (certaines ont un angle d'inclinaison trop plat), mais ne convient que lorsque le soleil est dans une position favorable, c'est-à-dire un ou deux jours par an, la la pointe de l'ombre de la pyramide est exactement verticale sur le bord d'une pyramide pyramidale afin qu'elle puisse être mesurée directement.[25] Cette méthode n'était donc pas très pratique pour mesurer la hauteur des pyramides, ni particulièrement impressionnante, puisque les Égyptiens pouvaient calculer la hauteur d'une pyramide sans difficulté.[26]
+
+Dans son commentaire sur les éléments d'Euclide, Proclus donne d'autres idées mathématiques de Thales : "Thalès aurait été le premier à prouver que le cercle est bissecté par le diamètre." [27] Proclus continue d'écrire : "On dit qu'il a été le premier à savoir et a dit que dans chaque triangle isocèle les angles à la base sont égaux, en utilisant à l'ancienne le même [ἴσας, c'est-à-dire H égal] angle similaire [ὁμοίας, i. H gestaltgleich] appelé. »[28] Après Eudemos, on dit que Thales a été le premier à trouver que les angles des sommets sont égaux, mais ce n'est qu'Euclide qui a considéré qu'une preuve était nécessaire.[29] Un autre passage dit : « Dans son histoire de la géométrie, Eudemos fait remonter ce théorème [la troisième loi de congruence] à Thales. Il dit que la méthode par laquelle il a calculé la distance des navires en mer doit nécessairement être basée sur l'utilisation de ce théorème. adapté à cela.[31] De plus, Eudemus a seulement supposé que Thales connaissait cette phrase.
+
+astronomie
+Hérodote rapporte que Thales a correctement prédit l'année d'une éclipse qui s'est produite soudainement lors d'une bataille entre les Lydiens et les Mèdes.[32] Ceci est souvent interprété comme signifiant une éclipse solaire totale. Rétrospectivement, il a été calculé que l'éclipse solaire du 28 mai 585 av. aux quelques détails d'Hérodote. Cependant, la citation d'Hérodote laisse ouverte de quel type d'éclipse il s'agissait. Les éclipses solaires totales sont extrêmement rares et une éclipse atmosphérique est beaucoup plus probable. Avec les connaissances disponibles à l'époque de Thales, il n'était pas non plus possible de calculer à l'avance l'heure d'une éclipse solaire. Il est probable que Thales ait prédit autre chose, qui a ensuite été identifié par Hérodote avec l'éclipse lors de cette bataille.[33]
+
+Diogène Laertios a rapporté ce qui suit sur l'astronomie de Thales :
+
+"Certains auteurs prétendent qu'il fut le premier à faire de l'astronomie, à prédire les éclipses solaires et à déterminer les solstices."
+
+– Diogène Laertios : I,23
+"Il a également été le premier à déterminer l'orbite du soleil d'un tour à l'autre, après d'autres aussi le rapport du diamètre du soleil et de la lune à la circonférence respective de l'orbite comme 1:720. Il a été le premier à décrire le dernier jour du mois comme « le trentième » et à discuter de problèmes théoriques naturels. »
+
+– Diogène Laertios : I,24
+"On dit qu'il a introduit les saisons et divisé l'année en 365 jours."
+
+– Diogène Laertios : I,27
+Le cratère lunaire Thales porte son nom.
+
+Technologie
+Une possible réalisation technique de Thales a également été signalée. Il a au moins partiellement détourné la rivière Halys pour que l'armée de Crésus puisse la traverser.[34] Hérodote en doutait et fit traverser la rivière par l'armée sur les ponts existants[35].
+
+anecdotes
+Surtout, deux anecdotes sur Thales sont devenues connues. Selon la première, il aurait prédit une importante récolte d'olives sur la base de ses connaissances astronomiques et aurait ensuite investi avec profit dans des pressoirs à huile :
+
+« On lui reprochait [...] à cause de sa pauvreté que la philosophie était une occupation inutile. Puisqu'il avait maintenant reconnu à la suite de son observation des étoiles qu'il y aurait une riche récolte d'olives, il aurait fait des dépôts pour toutes les presses à huile de Milet et de Chios en hiver et, comme personne ne s'y est opposé, les a louées pour un petit montant. Mais quand le bon moment est venu, et en même temps et tout d'un coup il y avait un grand besoin de pressoirs à huile, il les a loués à ses propres conditions et

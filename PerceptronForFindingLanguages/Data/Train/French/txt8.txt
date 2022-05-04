@@ -1,0 +1,86 @@
+Aller à la navigationAller à la recherche
+Input/Output (en abrégé E/O ; anglais input/output, I/O en abrégé) est un terme de l'EDP ou de l'informatique qui décrit la communication/l'interaction d'un système d'information avec son « monde extérieur », par ex. B. ses utilisateurs ou d'autres systèmes d'information, et les actions de lecture et d'écriture de données. Les entrées sont des signaux (par exemple des lignes de commande) ou des données que le système reçoit, les sorties sont envoyées par le système.
+
+Ce qu'est le « monde extérieur » dépend de la manière dont vous le considérez : du point de vue de l'ordinateur en tant que processeur d'exécution, par ex. B. aussi les programmes 'Inputs'. Dans un programme (c'est généralement l'objet de considération), les données d'application de/vers les utilisateurs ou d'autres systèmes constituent l'entrée ou la sortie la plus importante ; pour les sous-programmes, il y a u. a. également les valeurs d'appel et de retour (paramètres) des programmes/parties correspondants, pour une imprimante ce sont les textes/graphiques etc. à imprimer, y compris les commandes de contrôle associées.
+
+
+Contenu
+1 bases
+2 matériel
+3 logiciels
+4 Voir aussi
+bases
+
+Entrées, fonctions, données, résultats
+L'entrée et la sortie sont importantes pour permettre aux programmes exécutés sur l'ordinateur de s'interfacer avec le « monde extérieur ». Ce n'est qu'alors qu'une utilisation judicieuse du système est possible.
+
+Des périphériques externes sont disponibles pour l'interaction entre l'utilisateur et le programme, qui sont exploités et contrôlés via le système d'exploitation (par exemple, le bus système et/ou le pilote de périphérique) et des connexions de communication mécaniques ou électroniques. Cela est nécessaire car il existe de nombreux protocoles différents et les périphériques peuvent différer en termes de longueur de mot et de vitesse de traitement.
+
+Dans la méthodologie de développement logiciel, une distinction est faite entre les entrées et les sorties selon que les données circulent de l'extérieur (par exemple des utilisateurs) vers le système (ou vice versa) ou si les données sont stockées ou lues, modifiées ou supprimées dans le système ( créer, lire, mettre à jour, supprimer = CRUD).
+
+Matériel
+Le processeur adresse les périphériques externes via des contrôleurs d'E/S (moins puissants mais moins chers) ou des processeurs d'E/S (très puissants mais plus chers). Ceux-ci servent de couche d'abstraction et sont contrôlés par le CPU avec de simples commandes READ et WRITE. Les appareils eux-mêmes sont connectés directement via des bus de données, de contrôle et d'adresses. Ils contiennent des tampons pour stocker temporairement les requêtes et les réponses.
+
+Pour effectuer cette communication, des entrées/sorties programmées, des E/S pilotées par interruption et DMA sont disponibles.
+
+Pour les utilisateurs, les périphériques d'entrée sont généralement un clavier, une souris et un joystick, et les périphériques de sortie sont généralement un écran, une imprimante ou des supports de stockage portables tels que des CD, etc.
+
+Par rapport à l'environnement, l'entrée peut également signifier des capteurs (de température, de vitesse, de pression...). La sortie serait alors par ex. Par exemple, les contrôleurs de puissance, les commandes de vannes, etc. Quelque chose comme cela est utilisé dans le domaine de la technologie de contrôle et de mesure.
+
+Logiciel
+Dans le domaine du logiciel, une distinction peut être faite entre l'entrée dans la ligne de commande, l'entrée dans le programme à partir d'une requête au clavier, à la souris ou au joystick, l'accès en lecture à un support de stockage ou l'accès en lecture directe à un convertisseur A/N ou similaire.
+
+La sortie du logiciel ne s'exécute généralement pas via la ligne de commande, mais uniquement dans le programme en tant qu'accès en écriture à l'écran, à l'imprimante, à la mémoire ou à un convertisseur A/N ou similaire.
+
+Voir aussi : interpréteur de ligne de commande
+Voir également
+entrée (ordinateur)
+sortie (ordinateur)
+Principe EVA
+Catégorie : Informatique
+le menu de navigation
+Non connectéTalk PageMessagesCréer un compteConnexionArticlesDiscussionLireModifierModifier la sourceHistoriqueRechercher
+Rechercher sur Wikipédia
+page d'accueil
+portails thématiques
+Article aléatoire
+Participer
+améliorer l'article
+Créer un nouvel article
+portail auteur
+Aider
+derniers changements
+Contacter
+Donner
+outils
+Liens vers cette page
+Modifications des sites liés
+pages spéciales
+lien permanent
+informations secondaires
+Objet de données Wikidata
+citer l'article
+Imprimer/Exporter
+créer un livre
+Télécharger au format PDF
+Version imprimable
+Dans d'autres projets
+Chambre des communes
+
+Dans d'autres langues
+العربية
+Anglais
+espagnol
+हिन्दी
+bahasa indonesia
+Pologne
+Русский
+Українська
+中文
+39 de plus
+modifier les liens
+Cette page a été modifiée pour la dernière fois le 11 décembre 2018 à 09:04.
+Statistiques de récupération
+
+Le texte est disponible sous une licence Creative Commons Attribution/Share Alike ; Les informations sur les auteurs et l'état de la licence des fichiers multimédias intégrés (par exemple, des images ou des vidéos) peuvent généralement être appelées en cliquant dessus. Le contenu peut être soumis à des termes et conditions supplémentaires. En utilisant ce site Web, vous acceptez les conditions d'utilisation et la politique de confidentialité.
+Wikipedia® est une marque déposée de Wikimedia Foundation Inc.
